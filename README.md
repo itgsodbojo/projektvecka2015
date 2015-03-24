@@ -23,7 +23,7 @@ Det är vi programmerare bra på, lösa problem. Uppgifter hittar ni [här](./ma
 Uppdateras efterhand som vi löser uppgifterna..
 
 
-##Onsdag richardo tar hand om er
+##Onsdag ricardo tar hand om er
 
 För er som inte hann med så många uppgifter, så finns dom kvar. Jga har också lagt till några nya.
 
