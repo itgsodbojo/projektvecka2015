@@ -31,11 +31,12 @@ Efter varje uppgift ska ni *commita* lösningen.
 
 ###Annunitetslån uppgift 16
 
-I uppgift 16 finns ett exempel på annunitetslån,
+I uppgift 16  som finns [här](http://www.matteboken.se/lektioner/matte-1/nationella-provet-vt12-1c/uppgift-16)finns ett exempel på annunitetslån,
 som alla lån ska det betalas tillbaka och när lånetiden är slut ska lånebeloppet vara 0 kr.
 
 Annunitetslån betalas tillbaka med lika stora månadsbelopp varje måmad, i början är det mest ränta och en liten amortering, i slutet tvärtom.
-Ni ska skriva ut en tabell liknande den här [lånekalkylen](http://www.lanekalkyler.se/amortering/)
+
+Er uppgift är göra en tabell liknande den här [lånekalkylen](http://www.lanekalkyler.se/amortering/)
 
 Det är lite konstigt med vår uppgift, läs reklamen och testa på lånekalkylen i länken, vi får olika uppgifter.
 
