@@ -23,6 +23,18 @@ Det är vi programmerare bra på, lösa problem. Uppgifter hittar ni [här](./ma
 Uppdateras efterhand som vi löser uppgifterna..
 
 
+##Onsdag richardo tar hand om er
+
+För er som inte hann med så många uppgifter, så finns dom kvar. Jga har också lagt till några nya.
+
+Titta på [matteupgifterna](./math.md)
+
+För er som blir/blivit klara och jobbar med ett yatzy program fortsätt med det.
+För er andra tar uppgifterna slut fråga Ricardo om nya.
+
+För alla kom ihåg det är viktigat att producera kod och commita, Ricardo övervakar så att alla gör något.
+
+Lycka till
 
 
 

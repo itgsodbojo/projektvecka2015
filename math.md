@@ -29,5 +29,17 @@ fungerar för fler möjliga utfall och olika sorters tärningar, 4,6,8 och 20 si
 Spara uppgifterna som sannolikheter<bokstav>.rb byt ut bokstav mot rätt uppgift a,b osv.
 Efter varje uppgift ska ni *commita* lösningen.
 
+###Annunitetslån uppgift 16
+
+I uppgift 16 finns ett exempel på annunitetslån,
+som alla lån ska det betalas tillbaka och när lånetiden är slut ska lånebeloppet vara 0 kr.
+
+Annunitetslån betalas tillbaka med lika stora månadsbelopp varje måmad, i början är det mest ränta och en liten amortering, i slutet tvärtom.
+Ni ska skriva ut en tabell liknande den här [lånekalkylen](http://www.lanekalkyler.se/amortering/)
+
+Det är lite konstigt med vår uppgift, läs reklamen och testa på lånekalkylen i länken, vi får olika uppgifter.
+
+Vilken är rätt? Gör ett program och testa.
+
 
 Lycka till.
